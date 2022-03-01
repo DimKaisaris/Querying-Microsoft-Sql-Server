@@ -6,5 +6,5 @@ Microsoft Sql Server 2019.
 
 ### Session 1
 In first session I created three tables and inserted values into them.**[see query](https://github.com/DimKaisaris/Querying-Microsoft-Sql-Server/blob/main/queries/SQLQuery1.sql)**  
-Functions and methods used:  Create, Alter, Drop, Alter column, Insert Into, Rollback tran, build in method for insert values
-![shot1](images/shot1.png)
+Functions and methods used:  Create, Alter, Drop, Alter column, Insert Into, Rollback tran, build in method for insert values  
+![shot1](images/shot_1.png)
