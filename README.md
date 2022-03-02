@@ -14,7 +14,7 @@ Finally I build the data model using Database Diagrams
 ![shot3](images/shot_3.png)
 
 
-## Session 2
+### Session 2
 In this session i will explore our datasets using simple statements: select, limit, distinct, aliasing, where, comment out, order by  
 as well as aggregation: max, min, avg, sum, count(*), count(distinct),group by,having **[(see query)](https://github.com/DimKaisaris/Querying-Microsoft-Sql-Server/blob/main/queries/SQLQuery2.sql)** 
 
