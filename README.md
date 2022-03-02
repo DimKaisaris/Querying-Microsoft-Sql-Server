@@ -12,8 +12,7 @@ The third table was created as derived table from the first.
 Functions: select, into, from, group by , count, add constraint, primary key  
 Finally I build the data model using Database Diagrams  
 ![shot3](images/shot_3.png)
-  
-    
-   
-   ## Updating soon
 
+
+## Session 2
+In this session i will explore our datasets using simple statements as:
