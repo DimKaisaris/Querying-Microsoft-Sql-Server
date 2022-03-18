@@ -20,5 +20,5 @@ as well as aggregation: max, min, avg, sum, count(*), count(distinct),group by,h
 
 ![shot4](images/shot_4.png)
 
-## Updating soon
+## Updating soon!
 
