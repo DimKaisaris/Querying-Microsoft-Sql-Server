@@ -21,7 +21,7 @@ as well as aggregation: max, min, avg, sum, count(*), count(distinct),group by,h
 ![shot4](images/shot_4.png)
 
 ### Session 3
-In session 3 I created a 4th table and made a union. Then I joined two and three tables.  
+In session 3 I created a 4th table and made a union. Then I joined two and three tables together. **[(see query)](https://github.com/DimKaisaris/Querying-Microsoft-Sql-Server/blob/main/queries/SQLQuery3.sql)  
 statements: union, left join, on, aliasing table, having and more
 
 ![shot5](images/shot_5.png)
